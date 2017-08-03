@@ -1,0 +1,928 @@
+Adding user hshrivastava3 to group authjobs
+TESTING
+/nethome/hshrivastava3/hpc/hpc_assigns/proj2/
+1
+Running GTEST with MPI with 1 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+inside mpi_tests
+Runtime for sorting is secs = 0.607526 
+[       OK ] MpiTest.Sort10 (1548 ms)
+[----------] 1 test from MpiTest (1548 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1548 ms total)
+[  PASSED  ] 1 test.
+4
+Running GTEST with MPI with 4 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 0.337850 
+[       OK ] MpiTest.Sort10 (1242 ms)
+[----------] 1 test from MpiTest (1242 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1242 ms total)
+[  PASSED  ] 1 test.
+8
+Running GTEST with MPI with 8 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 0.170290 
+[       OK ] MpiTest.Sort10 (1128 ms)
+[----------] 1 test from MpiTest (1128 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1129 ms total)
+[  PASSED  ] 1 test.
+16
+4000000
+4000000
+4000000
+4000000
+Running GTEST with MPI with 16 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 0.255660 
+[       OK ] MpiTest.Sort10 (1356 ms)
+[----------] 1 test from MpiTest (1356 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1356 ms total)
+[  PASSED  ] 1 test.
+32
+Running GTEST with MPI with 32 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 0.512060 
+[       OK ] MpiTest.Sort10 (1848 ms)
+[----------] 1 test from MpiTest (1848 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1848 ms total)
+[  PASSED  ] 1 test.
+48
+Running GTEST with MPI with 48 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 0.892712 
+[       OK ] MpiTest.Sort10 (2424 ms)
+[----------] 1 test from MpiTest (2424 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (2424 ms total)
+[  PASSED  ] 1 test.
+56
+Running GTEST with MPI with 56 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 1.158508 
+[       OK ] MpiTest.Sort10 (3296 ms)
+[----------] 1 test from MpiTest (3296 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (3296 ms total)
+[  PASSED  ] 1 test.
+64
+Running GTEST with MPI with 64 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 1.535948 
+[       OK ] MpiTest.Sort10 (3746 ms)
+[----------] 1 test from MpiTest (3746 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (3746 ms total)
+[  PASSED  ] 1 test.
+72
+Running GTEST with MPI with 72 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 1.810882 
+[       OK ] MpiTest.Sort10 (4154 ms)
+[----------] 1 test from MpiTest (4154 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (4154 ms total)
+[  PASSED  ] 1 test.
+96
+Running GTEST with MPI with 96 processes.
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MpiTest
+[ RUN      ] MpiTest.Sort10
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+4000000
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+inside mpi_tests
+Runtime for sorting is secs = 3.143193 
+[       OK ] MpiTest.Sort10 (6382 ms)
+[----------] 1 test from MpiTest (6382 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (6382 ms total)
+[  PASSED  ] 1 test.
+Removing user hshrivastava3 from group authjobs

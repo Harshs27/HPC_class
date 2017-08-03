@@ -1,0 +1,32 @@
+#!/bin/bash
+#PBS -q class
+#PBS -l nodes=4:sixcore
+#PBS -l walltime=00:30:00
+#PBS -N parallel_sort
+##PBS -m e
+##PBS -M plavin3@gatech.edu
+
+MPIRUN=/usr/lib64/openmpi/bin/mpirun
+
+echo TESTING script runPBS
+echo $HOME/hpc/hpc_assigns/proj2/
+cd $HOME/hpc/hpc_assigns/proj2/
+
+#for p in 1;
+#for p in 1 4 8 12 16 32 48 56 64 72 96;
+#for N in 100000 200000 400000 800000 1000000 2000000 4000000;
+#for N in 100000; #200000
+#do
+#    for p in 1;# 4 8; #12 16 32 48;
+#    do
+#        echo $N $p
+##        $MPIRUN -np $p --hostfile $PBS_NODEFILE ./sort -r -n $N;
+#        $MPIRUN -np $p --hostfile $PBS_NODEFILE ./sort input.txt;
+#    done
+#done
+
+for p in 1 4 8 12 16 24 32 48
+do
+    echo $p
+    $MPIRUN -np $p --hostfile $PBS_NODEFILE ./sort input.txt;
+done
